@@ -10,7 +10,7 @@ Uniinovation é uma plataforma inovadora desenvolvida para a área da saúde, co
 ## Funcionalidades
 
 - Menu de Navegação: Links para diferentes seções do site, incluindo Home, Serviços, Empresa, Contrate e Veja.
-Seção de Serviços: Informações detalhadas sobre os serviços oferecidos, como dados de uso de medicamentos, disponibilidade de médicos, prontuários, leitos disponíveis, vacinas e medicamentos, e consulta de exames.
+- Seção de Serviços: Informações detalhadas sobre os serviços oferecidos, como dados de uso de medicamentos, disponibilidade de médicos, prontuários, leitos disponíveis, vacinas e medicamentos, e consulta de exames.
 - Quem Somos: Descrição da empresa, sua missão, visão e valores.
 Formulário de Contato: Formulário para contratação, permitindo que usuários forneçam detalhes sobre suas necessidades e entrem em contato com a empresa.
 - Multimídia: Vídeo demonstrativo e link para download de aplicações via GitHub.
